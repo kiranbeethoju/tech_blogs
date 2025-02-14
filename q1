@@ -1,0 +1,13 @@
+multipurpose_array = [
+    "Hello, World!", 
+    123, 
+    45.67, 
+    True, 
+    None, 
+    [1, 2, 3], 
+    ("apple", "banana", "cherry"), 
+    {
+        "name": "John Doe", 
+        "age": 30
+    }
+]
