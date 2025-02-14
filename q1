@@ -6,8 +6,8 @@ multipurpose_array = [
     None, 
     [1, 2, 3], 
     ("apple", "banana", "cherry"), 
-    {
+    '{
         "name": "John Doe", 
         "age": 30
-    }
+    }'
 ]
